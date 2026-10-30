@@ -1,0 +1,31 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>My RSS Feed</title>
+    <link>https://example.com</link>
+    <description>Updates from my project.</description>
+    <language>en</language>
+
+    <item>
+      <title>Complete fall arrest harness Petzl Avao® International Version black</title>
+      <link>https://traverse.com.ua/en/povna-strakhuvalna-systema-petzl-avao-international-version-black/</link>
+      <imgURL>https://traverse.com.ua/content/images/15/618x1200l80nn0/23386644899079.webp</imgURL>
+      <description>Petzl Avao® International Version is a complete system specially designed for workers at height, its design is specific for work positioning and rope descent.
+It has metal side attachment points, equipment hinges and tool holder slots, allowing the user to arrange all the necessary equipment for the working day.
+The contour foam on the semi-rigid belt and leg loops provides comfort during use. 
+Adjustment is quick and easy with DOUBLEBACK self-locking buckles. 
+Certified according to the standards of the USA, Europe, Great Britain, Japan.</description>
+    </item>
+
+    <item>
+      <title>BodyDry Balaсlava black</title>
+      <link>https://traverse.com.ua/en/balaklava-bodydry-balaslava-black/</link>
+      <imgURL>https://traverse.com.ua/content/images/22/568x902l80nn0/47946225701818.webp</imgURL>
+      <description>BodyDry Balaclava black is a professional thermoactive headgear made using two-component technology. The colour is black.
+It is designed to provide maximum protection of the head and neck from cold and wind, wicks moisture away from the body and maintains optimal temperature
+Most often used as a liner for extreme sports.</description>
+    </item>
+
+  </channel>
+</rss>
